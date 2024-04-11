@@ -1,0 +1,3 @@
+git add. 
+-> để đưa tất cả các dữ liệu vào
+git commit -m "11/4"  -> sau "" để lưu nội dung 
